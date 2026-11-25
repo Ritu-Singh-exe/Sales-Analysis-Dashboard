@@ -65,6 +65,8 @@ The dataset consists of over 1,500 sales transactions across multiple regions, c
 ## Dashboard Features
 
 ### Page 1 - Executive Sales Overview
+<img width="1162" height="652" alt="Dashboard_Page1" src="https://github.com/user-attachments/assets/0de136ff-6212-45b3-aef6-e45c12dd96e6" />
+
 
 #### KPI Cards
 
@@ -90,6 +92,8 @@ The dataset consists of over 1,500 sales transactions across multiple regions, c
 ---
 
 ### Page 2 - Product & Customer Performance
+<img width="1161" height="652" alt="Dashboard_Page2" src="https://github.com/user-attachments/assets/62e180cc-a471-43f6-9e27-c9a8d17b91fa" />
+
 
 #### KPI Cards
 
